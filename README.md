@@ -40,6 +40,11 @@ Here is the table which has the win_rate for the price mentioned :
 | A | 5 | 0.8 | 10 |
 | A | 9 | 1 | 1 |
 
+#### Visualising the Winrate
+![Image](bidpriceWinrate.png "Visualisation of bid_price vs winrate")
+
+The size of the dots denote the total events
+
 ### Answer 2:
 
 The simple answer is to **maximize** the *net_revenue ,* we have to **minimize** the *bid_price.*
