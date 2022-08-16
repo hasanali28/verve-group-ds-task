@@ -48,4 +48,4 @@ In the original table and considering the win_rate. 0.2 bid_price has just win_r
 
 The most optimal *bid_valuation* that we should send ~ 0.2 because even if the advertiser is willing to pay 0.21$ we get *net_revenue as* 0.01 * 2000000 = **20,000$ .**
 
-Having said that, I would also investigate more around 0.1$ bid_price by doing more bids around the value to see how the *winrate* changes ****if we increase the number of *total_events.*
+Having said that, I would also investigate more around 0.1$ bid_price by doing more bids around the value to see how the *winrate* changes if we increase the number of *total_events.*
